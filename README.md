@@ -55,7 +55,7 @@ are used for XAI purposes. <br>
 In the research context, XAI helps if a machine learning and deep learning model has predicted that a certain tweet
 contains a certain type of depression. Then, it also explains why it made that decision. It highlights the text in the tweet,
 saying that the model made this classification decision due to the highlighted word or words. <br>
-# Results of Explainability
+# Result of Explainability
 ## Postpartum Depression
 ![image](https://github.com/mnusrat786/Multiclass-Depression-Detection-of-Tweets-using-AI/assets/45511078/72df4f3a-5050-4133-84ad-b0fbc6916ea0)
 
@@ -68,7 +68,7 @@ saying that the model made this classification decision due to the highlighted w
 ## Major Depression
 ![image](https://github.com/mnusrat786/Multiclass-Depression-Detection-of-Tweets-using-AI/assets/45511078/87e9a9b2-10a4-4692-b83c-3824057834d2)
 
-## Bipolar
+## Bipolar Depression
 ![image](https://github.com/mnusrat786/Multiclass-Depression-Detection-of-Tweets-using-AI/assets/45511078/aa0d024d-c88d-441b-9f7f-af996bdfc2c9)
 
 ## No Depression
