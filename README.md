@@ -9,7 +9,10 @@ Depression is a significant issue nowadays. According to the World Health Organi
 
 
 # Dataset
-The dataset is available for research purposes. You can email me at osamanusrat786@gmail.com to request dataset access.
+ 
+The dataset is available for research purposes. You can access it at https://zenodo.org/records/14233292
+Feel free to discuss your queries with me at my email: osamanusrat786@gmail.com
+
 
 There are 14,317 tweets and six classes in the dataset. <br>
 
